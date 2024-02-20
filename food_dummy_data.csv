@@ -1,0 +1,41 @@
+Food Name,Food category,Region,Base Country,Color,Small,Length,Weight,Texture,Shape,No Synthetic Pesticides or Chemicals,Seasonal Availability,Packaging,Local Sourcing,Insect Bites or Imperfections,Soil Residue,Quality
+Carrot,Vegetable,North America,USA,Orange,Yes,15,0.2,Crisp,Straight,Yes,Year-round,Plastic Bag,Yes,No,Yes,Good
+Tomato,Vegetable,Europe,Italy,Red,No,8,0.1,Smooth,Round,Yes,Summer,Cardboard Box,Yes,Yes,No,Good
+Apple,Fruit,North America,Canada,Green,No,10,0.15,Crisp,Round,Yes,Fall,Paper Bag,Yes,Yes,Yes,Good
+Lettuce,Vegetable,South America,Brazil,Green,Yes,12,0.3,Crisp,Leafy,Yes,Year-round,Plastic Wrap,Yes,No,No,Good
+Strawberry,Fruit,Asia,Japan,Red,Yes,1,0.005,Soft,Oval,Yes,Summer,Punnet,Yes,Yes,Yes,Good
+Potato,Vegetable,Europe,France,Brown,Yes,6,0.1,Starchy,Oval,No,Year-round,Jute Bag,Yes,Yes,Yes,Good
+Banana,Fruit,Africa,South Africa,Yellow,No,8,0.12,Soft,Curved,Yes,Year-round,Bunch,Yes,Yes,No,Good
+Cucumber,Vegetable,Asia,India,Green,Yes,10,0.2,Crisp,Cylindrical,Yes,Summer,Plastic Wrap,Yes,Yes,No,Good
+Orange,Fruit,North America,USA,Orange,Yes,5,0.08,Juicy,Round,Yes,Winter,Net Bag,Yes,Yes,No,Good
+Grapes,Fruit,Europe,Spain,Purple,Yes,4,0.05,Juicy,Round,Yes,Summer,Punnet,Yes,Yes,Yes,Good,
+Onion,Vegetable,Asia,India,Brown,Yes,8,0.15,Pungent,Round,No,Year-round,Mesh Bag,No,No,Yes,Bad
+Grapefruit,Fruit,North America,USA,Orange,Yes,6,0.25,Tart,Round,No,Winter,Plastic Wrap,No,Yes,No,Bad
+Eggplant,Vegetable,Middle East,Israel,Purple,Yes,10,0.3,Soft,Oval,No,Year-round,Plastic Wrap,No,Yes,Yes,Bad
+Pineapple,Fruit,South America,Costa Rica,Yellow,Yes,12,1,Juicy,Oval,No,Year-round,Plastic Wrap,No,No,No,Bad
+Broccoli,Vegetable,North America,USA,Green,Yes,8,0.2,Crisp,Florets,No,Year-round,Plastic Wrap,Yes,Yes,Yes,Bad
+Avocado,Fruit,Latin America,Mexico,Green,Yes,7,0.3,Buttery,Oval,No,Year-round,Plastic Wrap,Yes,No,Yes,Bad
+Pumpkin,Vegetable,North America,USA,Orange,Yes,12,2,Smooth,Round,No,Fall,Net Bag,No,Yes,Yes,Bad
+Cherry,Fruit,Europe,Turkey,Red,Yes,1,0.01,Juicy,Round,No,Summer,Punnet,No,Yes,Yes,Bad
+Zucchini,Vegetable,Europe,Italy,Green,Yes,8,0.15,Soft,Cylindrical,No,Summer,Plastic Wrap,Yes,Yes,Yes,Bad
+Bell Pepper,Vegetable,North America,Mexico,Red,Yes,6,0.15,Crisp,Blocky,No,Year-round,Plastic Bag,Yes,Yes,Yes,Bad,
+Carrot,Vegetable,Asia,Sri Lanka,Orange,Yes,6,0.1,Crisp,Cylindrical,No,Year-round,Mesh Bag,Yes,Yes,No,Good
+Cabbage,Vegetable,Asia,Sri Lanka,Green,Yes,8,1,Crisp,Round,No,Year-round,Plastic Wrap,Yes,Yes,Yes,Good
+Brinjal,Vegetable,Asia,Sri Lanka,Purple,Yes,8,0.2,Soft,Oval,No,Year-round,Plastic Wrap,Yes,Yes,Yes,Good
+Bean,Vegetable,Asia,Sri Lanka,Green,Yes,4,0.05,Snappy,Pods,Yes,Year-round,Plastic Bag,Yes,Yes,Yes,Good
+Radish,Vegetable,Asia,Sri Lanka,White,Yes,6,0.1,Crisp,Cylindrical,No,Year-round,Mesh Bag,Yes,Yes,No,Good
+Pumpkin,Vegetable,Asia,Sri Lanka,Orange,Yes,12,2,Smooth,Round,No,Year-round,Net Bag,Yes,Yes,Yes,Good
+Okra,Vegetable,Asia,Sri Lanka,Green,Yes,6,0.1,Slimey,Cylindrical,No,Year-round,Plastic Bag,Yes,Yes,Yes,Good
+Leeks,Vegetable,Asia,Sri Lanka,Green,Yes,10,0.15,Crisp,Cylindrical,No,Year-round,Plastic Wrap,Yes,Yes,Yes,Good
+Spinach,Vegetable,Asia,Sri Lanka,Green,Yes,8,0.15,Leafy,Leaves,Yes,Year-round,Plastic Bag,Yes,Yes,Yes,Good
+Beetroot,Vegetable,Asia,Sri Lanka,Red,Yes,6,0.1,Crisp,Round,No,Year-round,Plastic Wrap,Yes,Yes,Yes,Good,
+WiltedCarrot,Vegetable,Asia,Sri Lanka,Brown,Yes,5,0.05,Soggy,Cylindrical,No,Off-season,No Packaging,No,Yes,Yes,Bad
+RottenCabbage,Vegetable,Asia,Sri Lanka,Brown,Yes,7,0.8,Slimy,Round,No,Off-season,No Packaging,No,Yes,Yes,Bad
+MoldyBrinjal,Vegetable,Asia,Sri Lanka,Green,Yes,8,0.15,Moldy,Oval,No,Off-season,No Packaging,No,Yes,Yes,Bad
+OldBean,Vegetable,Asia,Sri Lanka,Green,Yes,3,0.03,Soggy,Pods,Yes,Off-season,No Packaging,No,Yes,Yes,Bad
+SpoiledRadish,Vegetable,Asia,Sri Lanka,Brown,Yes,5,0.1,Mushy,Cylindrical,No,Off-season,No Packaging,No,Yes,Yes,Bad
+DecayedPumpkin,Vegetable,Asia,Sri Lanka,Brown,Yes,15,1.8,Mushy,Round,No,Off-season,No Packaging,No,Yes,Yes,Bad
+SlimyOkra,Vegetable,Asia,Sri Lanka,Green,Yes,5,0.08,Slimey,Cylindrical,No,Off-season,No Packaging,No,Yes,Yes,Bad
+YellowLeeks,Vegetable,Asia,Sri Lanka,Yellow,Yes,12,0.2,Soggy,Cylindrical,No,Off-season,No Packaging,No,Yes,Yes,Bad
+WitheredSpinach,Vegetable,Asia,Sri Lanka,Brown,Yes,7,0.12,Wilted,Leaves,Yes,Off-season,No Packaging,No,Yes,Yes,Bad
+MoldyBeetroot,Vegetable,Asia,Sri Lanka,Red,Yes,5,0.1,Moldy,Round,No,Off-season,No Packaging,No,Yes,Yes,Bad
