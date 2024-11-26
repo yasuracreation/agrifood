@@ -1,6 +1,8 @@
-TRANSFORMING AGRI-FOOD SUPPLY CHAINS IN SRI LANKA: A BLOCKCHAIN-
+# TRANSFORMING AGRI-FOOD SUPPLY CHAINS IN SRI LANKA: A BLOCKCHAIN-
 BASED APPROACH
-Introduction
+
+## Introduction
+
 Sri Lanka's agri-food supply chain is vital to the country's economic welfare, supporting numerous
 communities. However, it faces significant challenges such as information asymmetry, trust issues, and
 quality control, resulting in inefficiencies that affect both producers and consumers. The primary
